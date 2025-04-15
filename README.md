@@ -16,4 +16,4 @@ This repository contains a Python script that converts a HED (Holistically-Neste
    cd hed-caffemodel-to-tflite
 ## Run
 
-1. python hed_to_tflite.py
+python hed_to_tflite.py
