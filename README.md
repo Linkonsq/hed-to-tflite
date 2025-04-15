@@ -12,8 +12,8 @@ This repository contains a Python script that converts a HED (Holistically-Neste
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/hed-caffemodel-to-tflite.git
-   cd hed-caffemodel-to-tflite
+   git clone https://github.com/Linkonsq/hed-to-tflite.git
+   cd hed-to-tflite
 ## Run
 
 python hed_to_tflite.py
